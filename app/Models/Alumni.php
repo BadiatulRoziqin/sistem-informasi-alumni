@@ -13,5 +13,7 @@ class Alumni extends Model
         'pekerjaan',
         'kontak',
         'alamat',
+        'foto',
+        'jurusan',
     ];
 }
