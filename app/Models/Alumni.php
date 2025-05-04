@@ -12,8 +12,10 @@ class Alumni extends Model
         'angkatan',
         'pekerjaan',
         'kontak',
+        'kontak_pekerjaan',
         'alamat',
-        'foto',
+        'alamat_pekerjaan',
         'jurusan',
+        'foto',
     ];
 }
